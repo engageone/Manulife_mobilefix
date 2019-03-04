@@ -1270,9 +1270,9 @@ div.promo__item.promo__item--bottom {
     text-align: center;
     }
 
-    .timeline {
+   /* .timeline {
         float: right;
-    }
+    }*/
 
     .timeline,
     .timeline__controls {
