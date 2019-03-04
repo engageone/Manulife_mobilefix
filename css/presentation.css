@@ -1332,7 +1332,7 @@ background: url(../images/Hoverdownload.jpg);
     }
 
     .timeline__button--play-pause {
-        width:42px ;
+        width:40% ;
     }
 
    /* .timeline__button--settings {
