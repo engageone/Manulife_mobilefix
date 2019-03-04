@@ -429,6 +429,7 @@ div.promo__item.promo__item--bottom {
     padding: 0;
     height: 100%;
     border: 0;
+	padding-left:1px;
 }
 
 .fullscreen .timeline__button {
