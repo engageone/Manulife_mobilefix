@@ -1335,9 +1335,9 @@ background: url(../images/Hoverdownload.jpg);
         width: 40%;
     }
 
-    .timeline__button--settings {
+   /* .timeline__button--settings {
         width: 100%;
-    }
+    }*/
 
     .timeline__button-icon {
            width: 0px;
