@@ -1095,7 +1095,7 @@ div.promo__item.promo__item--bottom {
     }
 
     .cta--side.cta--3 .cta__button {
-        height: 118px;
+       /** height: 118px;
     }
 
     .cta--side.cta--4 .cta__button {
