@@ -1094,9 +1094,9 @@ div.promo__item.promo__item--bottom {
         height: 178px;
     }
 
-    .cta--side.cta--3 .cta__button {
+   /** .cta--side.cta--3 .cta__button {
        height: 118px;
-    }
+    }**/
 
     .cta--side.cta--4 .cta__button {
         height: 87px;
