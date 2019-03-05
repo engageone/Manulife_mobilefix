@@ -916,7 +916,7 @@ div.promo__item.promo__item--bottom {
     .cta--side,
     .promo--side {
 	    width: 76px;
-            top:25%;
+           /* top:25%;*/
     }
 
     .cta--side.cta--1 .cta__button {
