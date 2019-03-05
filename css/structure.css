@@ -1141,9 +1141,9 @@ div.promo__item.promo__item--bottom {
         width: 320px;
     }
 
-    .timeline__controls--right {
+   /* .timeline__controls--right {
         width: 205px;
-    }
+    }*/
 
     .timeline--no-volume .timeline__controls--right {
         width: 115px;
