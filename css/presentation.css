@@ -1199,9 +1199,9 @@ background: url(../images/Hoverdownload.jpg);
         margin-right: calc(((50/230) * 100%) - 12.5px);
     }
 
-    .cta--side .cta__button {
+   /** .cta--side .cta__button {
         font-size: 6px;
-    }
+    }**/
 
     .player__splash-image {
         margin-top: calc((100% * (9/16)) / 2 - (101px / 2)); /* Calculate the margin-top based on half the video height, minus half the height of the splash icon */
