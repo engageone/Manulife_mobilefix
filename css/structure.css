@@ -961,7 +961,7 @@ div.promo__item.promo__item--bottom {
 
     .timeline__controls--left {
              width: 140px;
-               margin-left: 190px;
+              /*margin-left: 190px;*/
     }
 
     .timeline__controls--center {
