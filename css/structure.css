@@ -881,7 +881,7 @@ div.promo__item.promo__item--bottom {
     margin-top: -2%;
 	}
 	a.footer__link1{
-	    margin-left: -50%;
+	   /**margin-left: -50%;**/
 	}
 	.footer__copyright{
 	margin-left: 17%;
