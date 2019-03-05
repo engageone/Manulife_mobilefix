@@ -834,6 +834,8 @@ background: url(../images/Hoverdownload.jpg);
         text-align: left;
     /*margin-left: 49px;*/
 	    font-size: 13px;
+	    margin-left: 0px;
+
 }
 
 .footer__links {
