@@ -1162,8 +1162,8 @@ background: url(../images/Hoverdownload.jpg);
 /** 360p **/
 @media screen and (max-width: 1230px) {
 	#jp_poster_1{
-	height:50px;
-	width:80px;
+	height:0px;
+	width:0px;
 	float:right;
 	margin-right:30px;
 	}
