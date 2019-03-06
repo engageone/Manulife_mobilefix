@@ -1209,8 +1209,9 @@ background: url(../images/Hoverdownload.jpg);
         height: 101px;
     }
 
-    .timeline {
+    .timeline-buffering{
         font-size: 12px;
+	    width:96%;
     }
 
     .timeline__button-icon {
