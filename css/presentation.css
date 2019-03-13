@@ -1,6 +1,6 @@
 @media (min-width: 1025px) and (max-width: 1439px) {.timeline{
   float:right;
-  margin-right:190px;
+  margin-right:200px;
 }
 a.footer__link1{
         margin-left: 10%;
@@ -15,6 +15,10 @@ a.footer__link1{
      float:left;
      margin-left:780px;
 }
+	.timeline__controls--center {
+                width: 795px;
+    }
+
 }
 
 
