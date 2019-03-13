@@ -1508,7 +1508,7 @@ background: url(../images/Hoverdownload.jpg);
 }
 
 /** Very small mobile devices **/
-@media screen and (max-height: 260px) and (orientation: landscape) {
+@media screen and (max-height: 360px) and (orientation: landscape) {
     .cta__icon {
         margin-bottom: 2px;
     }
