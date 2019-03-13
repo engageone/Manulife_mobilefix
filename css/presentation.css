@@ -1,8 +1,21 @@
 @media (min-width: 1025px) and (max-width: 1439px) {.timeline{
-  
-  padding-left:190px;
-  
-}}
+  float:right;
+  margin-right:190px;
+}
+a.footer__link1{
+        margin-left: 10%;
+            float: left;
+             
+}
+.footer__copyright{
+          padding-left:180px; 
+}
+.footer__links {
+     margin-right:0px; 
+     float:left;
+     margin-left:780px;
+}
+}
 
 
 /** Global Styling **/
