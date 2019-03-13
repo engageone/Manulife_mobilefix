@@ -1278,9 +1278,9 @@ div.promo__item.promo__item--bottom {
     }*/
 
     .timeline,
-    .timeline__controls {
+   /* .timeline__controls {
         height: 51px;
-    }
+    }*/
 
     .timeline__controls {
         border: 0;
