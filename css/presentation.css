@@ -18,6 +18,9 @@ a.footer__link1{
 	.timeline__controls--center {
                 width: 795px;
     }
+	.timeline-buffering{
+    width:97.6%;
+}
 
 }
 
