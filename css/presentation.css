@@ -540,12 +540,12 @@ background: url(../images/Hoverdownload.jpg);
     height: 28px;
 }
 
-.timeline__button:hover .timeline__button-icon,
+/*.timeline__button:hover .timeline__button-icon,
 .timeline__button:active .timeline__button-icon,
 .focusable.timeline__button:focus .timeline__button-icon {
     background-position-y: 100%;
     --timeline-bgY: 100%;
-}
+}*/
 
 .timeline__button-icon--skip-back {
     margin-right: 8px;
