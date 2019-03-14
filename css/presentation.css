@@ -482,11 +482,11 @@ background: url(../images/Hoverdownload.jpg);
  background-position: 0px -50px;
 }
 
-#jsPlayPauseButton:hover{
+/*#jsPlayPauseButton:hover{
  background: url(../images/play-btn-hi.png);
  background-position: 0px -5px;
 	 
-}
+}*/
 
 #jsPlayPauseButton{
  background: url(../images/play-btn-hi.png);
@@ -562,7 +562,7 @@ background: url(../images/Hoverdownload.jpg);
 
 .timeline__button-icon--pause {
     width: 25px;
-    height: 35px;
+   /* height: 35px*/
     background-position-x: calc((100%/26) * 1);
     --timeline-bgX: calc((100%/26) * 1);
     width: 28px;
@@ -570,7 +570,7 @@ background: url(../images/Hoverdownload.jpg);
     /* background-position-x: calc((100%/26) * 1); */
     --timeline-bgX: calc((100%/26) * 1);
     background: url(../images/play-btn-res.png);
-    background-position: -14px -75px;
+    background-position: -74px -75px;
 }
 
 .fullscreen .timeline__button-icon--play,
