@@ -1304,8 +1304,8 @@ div.promo__item.promo__item--bottom {
     }
 
     .timeline__button {
-        margin-top: 10px;
-        height: calc(100% - 10px);
+        margin-top: 8px;
+        height: calc(103% - 10px);
     }
 
     .timeline-buffering {
