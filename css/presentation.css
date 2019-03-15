@@ -1,6 +1,4 @@
-element.style{
-overflow:hidden;
-}
+
 
 @media (min-width: 1025px) and (max-width: 1439px) {.timeline{
   float:right;
@@ -39,6 +37,7 @@ a.footer__link1 {
 .bottom-wrapper{
     background-image:url("../images/footer-background.jpg");
     height: 170px;
+	overflow:hidden;
 }
 @font-face {
     font-family: "OpenSans_Regular";
