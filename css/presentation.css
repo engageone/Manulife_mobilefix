@@ -1,3 +1,7 @@
+element.style{
+overflow:hidden;
+}
+
 @media (min-width: 1025px) and (max-width: 1439px) {.timeline{
   float:right;
   margin-right:200px;
