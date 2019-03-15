@@ -37,7 +37,7 @@ a.footer__link1 {
 .bottom-wrapper{
     background-image:url("../images/footer-background.jpg");
     height: 170px;
-	overflow:hidden;
+	
 }
 @font-face {
     font-family: "OpenSans_Regular";
