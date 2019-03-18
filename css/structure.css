@@ -791,6 +791,7 @@ div.promo__item.promo__item--bottom {
     .player__wrapper {
         width: 1280px;
         height: 720px;
+	    padding-top:70px;
     }
 
     .timeline,
