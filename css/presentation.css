@@ -459,10 +459,10 @@ background: url(../images/Hoverdownload.jpg);
     background-position: 84px -50px;
 }
 
-#jsSettingsButton:hover{
+/*#jsSettingsButton:hover{
     background: url(../images/quality-btn.png);
     background-position: 89px 0px;
-}
+}*/
 
 #jsSkipBackButton{
  background: url(../images/skipback-btn.png);
