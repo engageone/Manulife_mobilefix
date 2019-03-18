@@ -727,7 +727,7 @@ div.promo__item.promo__item--bottom {
     .footer
 	{
 		
-         height: 662px;
+         height: 730px;
     }
 	a.footer__link1{
 	    margin-left:-33%;
@@ -749,6 +749,7 @@ div.promo__item.promo__item--bottom {
     .top-wrapper--no-cta.top-wrapper--no-promo .main,
     .bottom-wrapper--no-cta.bottom-wrapper--no-promo .footer {
         width: 1280px;
+	    height:100%
     }
 
     .cta--side,
