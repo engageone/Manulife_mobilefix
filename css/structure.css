@@ -1461,7 +1461,7 @@ div.promo__item.promo__item--bottom {
 
     .cta--side.cta--3 .cta__button {
         margin-bottom: 0;
-        height: 33.333%;
+       /* height: 33.333%;*/
     }
 
     .cta--side.cta--4 .cta__button {
