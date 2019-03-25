@@ -1113,8 +1113,10 @@ div.promo__item.promo__item--bottom {
     }
 
     .player__wrapper {
-        width: 640px;
-        height: 360px;
+             width: auto;
+    height: 512px;
+    padding-top: 40px;
+    padding-left: 0px;
     }
 
     .timeline,
