@@ -1393,11 +1393,11 @@ background: url(../images/Hoverdownload.jpg);
 
     .timeline__button--skip-back,
     .timeline__button--skip-forward {
-        width: 30%;
+        /*width: 30%;*/
     }
 
     .timeline__button--play-pause {
-width:40% ;
+/*width:40% ;*/
     }
 
    /* .timeline__button--settings {
