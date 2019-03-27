@@ -1,21 +1,5 @@
-@media screen (min-width:546px)and (max-width: 820px) and (orientation: landscape) {
-    .timeline__button--skip-back,
-    .timeline__button--skip-forward {
-        width: 0px;
-    }
- .timeline__button--play-pause {
-width:0px;
-    }
-.timeline__button--skip-back,
-    .timeline__button--skip-forward {
-        width: 29px;
-    }
-	    .timeline__button--play-pause {
-width:0px ;
-    }
 
-}
-@media (max-width:350px){
+@media (max-width:630px){
     .cta--side{
         display:block;
         z-index:888;
