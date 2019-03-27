@@ -1395,7 +1395,7 @@ width:40% ;
     }*/
 
     .timeline__button-icon {
-           width: 0px;
+          /*width:0px;*/
     height: 22px;
     margin-left: 9px;;
     }
@@ -1572,8 +1572,8 @@ width:40% ;
     .timeline__settings-item:active .timeline__button-icon,
     .timeline__button:hover .timeline__button-icon,
     .timeline__button:active .timeline__button-icon {
-        background-position-y: 50%;
-        --timeline-bgY: 50%;
+      /*  background-position-y: 50%;
+        --timeline-bgY: 50%;*/
     }
 
     .timeline__settings-item:hover .timeline__settings-text,
