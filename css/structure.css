@@ -1423,7 +1423,7 @@ div.promo__item.promo__item--bottom {
 @media screen and (max-width: 820px) {
     .cta--side {
         position: absolute;
-        top: -8px;
+        top: 42px;
         left: 17px;
         height: 100%;
         width: 81.5px;
