@@ -1274,8 +1274,11 @@ background: url(../images/Hoverdownload.jpg);
 
     .timeline__button-icon--play,
     .timeline__button-icon--pause {
-        width: 25px;
-        height: 25px;
+         margin-top: -4px;
+    margin-left: 14px;
+    width: 25px;
+    height: 27px;
+    padding-top: 24px;
     }
 
     .fullscreen .timeline__button-icon {
