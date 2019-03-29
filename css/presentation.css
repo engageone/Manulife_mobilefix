@@ -1113,7 +1113,7 @@ background: url(../images/Hoverdownload.jpg);
     .timeline {
            font-size: 13px;
            margin-left: 1px;
-	    width:inherit;
+	   /* width:inherit;*/
     }
 
     .timeline__button-icon {
