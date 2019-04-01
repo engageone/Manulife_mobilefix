@@ -448,7 +448,7 @@ background: url(../images/Hoverdownload.jpg);
 
 .timeline {
     color: #fff;
-    background-image:url(../images/timeline-chapters.png);
+  /*  background-image:url(../images/timeline-chapters.png);*/
     font-size: 20px;
 }
 
@@ -1113,7 +1113,8 @@ background: url(../images/Hoverdownload.jpg);
     .timeline {
            font-size: 13px;
            margin-left: 1px;
-	   width:inherit;
+	    float:left;
+	  /* width:inherit;*/
     }
 
     .timeline__button-icon {
