@@ -1270,7 +1270,7 @@ div.promo__item.promo__item--bottom {
 
     .player__iframe {
       position: absolute;
-    top: 5%;
+    top: 10%;
     left: -5%;
     margin: 0 auto;
     width: 100%;
