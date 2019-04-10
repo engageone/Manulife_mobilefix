@@ -5,9 +5,9 @@
     } 
 	.timeline{
         
-        width:720px;
+        width:700px;
         
-        padding-left:200px;
+        float:left;
     }
     
 }
