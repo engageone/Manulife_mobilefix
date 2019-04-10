@@ -2,6 +2,12 @@
     .timeline__controls--left {
             width: 20%;
 	   
+    } 
+	.timeline{
+        
+        width:670px;
+        
+        padding-left:34px;
     }
     
 }
