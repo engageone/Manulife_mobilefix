@@ -1,5 +1,13 @@
 
 
+@media (min-width:1400px) and (max-width:1410px){
+    .timeline-chapters {
+   width: 153%;
+}
+.timeline__controls--right {
+    width: 87px;
+     margin-left: 219px; 
+    }}
 
 
 
