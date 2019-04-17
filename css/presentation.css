@@ -1132,7 +1132,7 @@ background: url(../images/Hoverdownload.jpg);
 
     .timeline {
            font-size: 13px;
-           margin-left: 1px;
+           margin-left: -51px;
 	    float:left;
 	  /* width:inherit;*/
     }
