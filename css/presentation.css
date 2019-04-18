@@ -3,16 +3,17 @@
     width: 100%;
     }
 .timeline-buffering {
-    font-size: 12px;
-    
-   
+   margin-left:-120px;
 }
-.timeline__controls {
-    width:290px;
+.timeline__controls--left {
+    padding:0px;
+    margin-left:-195px;
+}
+.timeline__controls--active-state{
+    width:70%;
+    margin-left:-73px;
 }
 }
-
-
 
 
 @media (min-width:1300px) and (max-width:1310px){
