@@ -5,15 +5,18 @@
         margin-left:-25px;
     }
 }
+@media (max-width:160px){
 
 timeline__button--play-pause {
     width: 1%;
-    margin-left:-10px;}.timeline__controls--active-state {
+    margin-left:-10px;}
+	.timeline__controls--active-state {
     margin-left:-150px;
-    }#jsSkipBackButton{
+    }
+	#jsSkipBackButton{
         background-position:-16px -50px;
     }
-
+}
 
 
 
