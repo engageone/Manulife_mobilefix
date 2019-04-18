@@ -3,7 +3,7 @@
     width: 100%;
     }
 .timeline-buffering {
-   margin-left:-120px;
+   margin-left:-195px;
 }
 .timeline__controls--left {
     padding:0px;
@@ -12,6 +12,9 @@
 .timeline__controls--active-state{
     width:70%;
     margin-left:-73px;
+}
+	.timeline-progress-indicator{
+    left:-200px;
 }
 }
 
