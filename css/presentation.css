@@ -1,3 +1,20 @@
+@media  (max-width:600px){
+.timeline__controls--center{
+    width: 100%;
+    }
+.timeline-buffering {
+    font-size: 12px;
+    
+   
+}
+.timeline__controls {
+    width:290px;
+}
+}
+
+
+
+
 @media (min-width:1300px) and (max-width:1310px){
 
 .timeline__controls--left{
