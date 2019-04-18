@@ -1,3 +1,17 @@
+@media (max-width:172px){
+    .timeline__controls--active-state {
+        margin-left: -183px;
+    }.timeline__button--settings, .timeline__button--fullscreen{
+        margin-left:-25px;
+    }
+}
+
+
+
+
+
+
+
 @media  (max-width:600px){
 .timeline__controls--center{
     width: 100%;
