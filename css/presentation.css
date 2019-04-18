@@ -1,4 +1,14 @@
-
+@media (min-width:1269px) and (max-width:1299px){
+  .timeline-chapters {
+   width: 153%;
+}
+.timeline__controls--right {
+    width: 90px;
+     margin-left: 220px; 
+    }
+    .timeline__controls--left {
+        margin-left:-65px;
+    }}
 
 @media (min-width:1300px) and (max-width:1439px){
     .timeline-chapters {
