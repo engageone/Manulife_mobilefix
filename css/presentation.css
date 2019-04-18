@@ -1,11 +1,29 @@
-@media (min-width:1300px) and (max-width:1399px){
+@media (min-width:1300px) and (max-width:1310px){
 
 .timeline__controls--left{
     margin-left:-51px;
 }
 
 }
+@media (min-width:1311px) and (max-width:1320px){
+    .timeline__controls--left{
+    margin-left: -42px;
+}
 
+}
+
+@media (min-width:1320px) and (max-width:1340px){
+    .timeline__controls--left{
+    margin-left: -30px;
+}
+
+}
+@media (min-width:1341px) and (max-width:1399px){
+ .timeline__controls--left{
+    margin-left: -17px;
+}
+
+}
 
 @media (min-width:1269px) and (max-width:1299px){
   .timeline-chapters {
