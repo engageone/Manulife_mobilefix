@@ -10,7 +10,13 @@
 .timeline__controls--left{margin-left: -201px;width:50%;}
 .timeline__controls--left{
 	margin-left:-201px;
-	}
+	}.timeline__controls--left{
+    margin-left:-208px;
+}.timeline-active-state__label{
+    margin-left:1px;
+}.timeline__controls--right{
+    margin-left:-93px;
+}
 
 }
 
