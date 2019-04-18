@@ -1,3 +1,9 @@
+@media (max-width:300px){
+    .timeline__controls--active-state{
+        margin-left:-107px;
+    }
+}
+
 @media (min-width:201px) and (max-width:300px){
     .timeline__controls--active-state{
         margin-left:-106px;
