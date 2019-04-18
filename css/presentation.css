@@ -8,6 +8,12 @@
 }
 }
 
+@media (max-width:53px){
+    #jsSkipForwardButton{
+ 
+ background-position: -33px  -50px;
+}
+}
 
 
 
