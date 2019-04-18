@@ -1,3 +1,10 @@
+@media (max-width:60px){
+    .timeline__button{
+        float:left;
+        margin-left: -4px;   
+}
+}
+
 @media (max-width:172px){
     .timeline__controls--active-state {
         margin-left: -183px;
