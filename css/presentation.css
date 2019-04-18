@@ -2,6 +2,10 @@
     .timeline__button--play-pause {
     width: 43%;
 }
+}@media (max-width:185px){
+    .timeline__controls--active-state{
+        margin-left:-153px;
+    }
 }
 
 @media (max-width:53px){
