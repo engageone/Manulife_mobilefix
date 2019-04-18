@@ -12,15 +12,53 @@
 
 }
 
-@media (min-width:1320px) and (max-width:1340px){
+@media (min-width:1320px) and (max-width:1330px){
     .timeline__controls--left{
-    margin-left: -30px;
+    margin-left: -37px;
 }
 
 }
-@media (min-width:1341px) and (max-width:1399px){
+@media (min-width:1331px) and (max-width:1340px){
+    .timeline__controls--left{
+    margin-left: -33px;
+}
+
+}
+@media (min-width:1341px) and (max-width:1350px){
  .timeline__controls--left{
-    margin-left: -17px;
+    margin-left: -30px;
+}
+
+}@media (min-width:1351px) and (max-width:1360px){
+ .timeline__controls--left{
+    margin-left: -25px;
+}
+
+}@media (min-width:1361px) and (max-width:1370px){
+ .timeline__controls--left{
+    margin-left: -20px;
+}
+
+}@media (min-width:1371px) and (max-width:1380px){
+ .timeline__controls--left{
+    margin-left: -16px;
+}
+
+}
+@media (min-width:1381px) and (max-width:1390px){
+ .timeline__controls--left{
+    margin-left: -10px;
+}
+}
+@media (min-width:1391px) and (max-width:1395px){
+ .timeline__controls--left{
+    margin-left: -5px;
+}
+
+}
+@media (min-width:1396px) and (max-width:1399px){
+ .timeline__controls--left{
+    margin-left: -3px;
 }
 
 }
