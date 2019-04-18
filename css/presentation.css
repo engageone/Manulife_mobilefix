@@ -5,10 +5,10 @@
  
  background-position: -33px  -50px;
 }
+	 .timeline__button--play-pause {
+    width: 43%;
 }
-
-
-
+}
 @media (max-width:60px){
     .timeline__button{
         float:left;
