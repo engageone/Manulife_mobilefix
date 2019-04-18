@@ -1,4 +1,9 @@
-
+@media (min-width:0px) and (max-width:300px){
+	.timeline{
+	margin-left:0px;
+		
+	}
+}
 
 @media (min-width:1300px) and (max-width:1439px){
     .timeline-chapters {
