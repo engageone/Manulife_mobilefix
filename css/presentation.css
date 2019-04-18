@@ -1,3 +1,16 @@
+@media (min-width:61px) and (max-width:100px){
+    .timeline__button--play-pause {
+    width: 64%;
+}.timeline__controls--left {
+    width:0px;
+}#jsPlayPauseButton {
+    margin-top:-47px;
+}
+}
+
+
+
+
 @media (max-width:60px){
     .timeline__button{
         float:left;
