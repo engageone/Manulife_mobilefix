@@ -1,13 +1,15 @@
-
+@media (max-width:78px){
+    .timeline__button--play-pause {
+    width: 43%;
+}
+}
 
 @media (max-width:53px){
     #jsSkipForwardButton{
  
  background-position: -33px  -50px;
 }
-	 .timeline__button--play-pause {
-    width: 43%;
-}
+
 }
 @media (max-width:60px){
     .timeline__button{
