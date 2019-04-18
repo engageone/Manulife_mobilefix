@@ -7,15 +7,11 @@
 }
 @media (max-width:160px){
 
-.timeline__button--play-pause {
-    width: 1%;
-    margin-left:-10px;}
-	.timeline__controls--active-state {
-    margin-left:-150px;
-    }
-	#jsSkipBackButton{
-        background-position:-16px -50px;
-    }
+.timeline__controls--left{margin-left: -201px;width:50%;}
+.timeline__controls--left{
+	margin-left:-201px;
+	}
+
 }
 
 
