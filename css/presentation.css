@@ -1,3 +1,14 @@
+@media (min-width:1000px) and (max-width:1099px){
+    .timeline__controls--left {
+    width: 115px;
+     margin-left: -200px; 
+}
+.timeline__controls--center {
+    width: 570px;
+    margin-left: -83px;
+}
+}
+
 @media (min-width:1231px) and (max-width:1250px){
 
 .timeline__controls--left {
