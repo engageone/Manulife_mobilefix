@@ -1,3 +1,58 @@
+@media (min-width:700px) and (max-width:710px){
+    .timeline__controls--active-state {
+    margin-left: -61px;
+    width: 76%;
+}.timeline__controls--center {
+    width:56%;
+    margin-left: -209px;
+}}
+@media (min-width:711px) and (max-width:719px){
+    .timeline__controls--active-state {
+    margin-left: -61px;
+    width: 80%;
+}.timeline__controls--center {
+    width:110%;
+    margin-left: -209px;
+}}
+
+
+
+@media (min-width:720px) and (max-width:740px){
+    .timeline__controls--active-state {
+    margin-left: -61px;
+    width: 80%;
+}.timeline__controls--center {
+    width:105%;
+    margin-left: -209px;
+}}
+@media (min-width:741px) and (max-width:760px){
+    .timeline__controls--active-state {
+    margin-left: -61px;
+    width: 83%;
+}.timeline__controls--center {
+    width:109%;
+    margin-left: -209px;
+}}
+
+@media (min-width:761px) and (max-width:780px){
+    .timeline__controls--active-state {
+    margin-left: -61px;
+    width: 86%;
+}.timeline__controls--center {
+    width:110%;
+    margin-left: -209px;
+}}
+@media (min-width:781px) and (max-width:800px){
+    .timeline__controls--active-state {
+    margin-left: -61px;
+    width: 90%;
+}.timeline__controls--center {
+    width:115%;
+    margin-left: -209px;
+}}
+
+
+
 @media (min-width:644px) and (max-width:654px){
 .timeline__controls--active-state {
     margin-left: -61px;
