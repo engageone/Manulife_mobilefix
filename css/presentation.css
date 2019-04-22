@@ -312,7 +312,7 @@
          margin-left:-200px
          
     }.timeline__controls--right{
-        margin-left:0px;
+        margin-left:-35px;
     }.timeline__controls--active-state{
         margin-left:-60px
 
