@@ -3,12 +3,14 @@
 .timeline__controls--left {
     margin-left: -88px;
 }.timeline__controls--center {
-    width: 699px;
+    width: 799px;
     margin-left: 0px;
 }
 .timeline__controls--right {
-    margin-left: 222px;
-}}
+    margin-left: 210px;
+}.timeline-chapters {
+	width:150%;
+	}}
 
 
 
