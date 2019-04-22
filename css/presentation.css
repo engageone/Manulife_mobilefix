@@ -5,6 +5,9 @@
 .timeline__controls--center {
     width: 579px;
      margin-left: -89px; 
+}
+.timeline__controls--right {
+     margin-left: -19px; 
 }}
 
 
