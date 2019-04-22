@@ -19,6 +19,16 @@
      width: 155%; 
 }
 }
+@media (min-width:1251px) and (max-width:1299px){
+    .timeline__controls--left {
+     margin-left: -75px; 
+}
+.timeline__controls--right{
+     margin-left:223px;
+ }
+	.timeline-chapters {
+     width: 155%; 
+}}
 
 
 
