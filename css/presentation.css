@@ -1,4 +1,4 @@
-@media (min-width:500px) and (max-width:570px){
+@media (min-width:540px) and (max-width:570px){
 
     .timeline__controls--active-state{
         margin-left: -58px;
@@ -286,7 +286,7 @@
 }
 .timeline__controls--active-state{
     width:73%;
-    margin-left:-46px;
+    margin-left:-57px;
 }
 	.timeline-progress-indicator{
     left:-200px;
