@@ -293,6 +293,14 @@
         width:700px;
         
         float:left;
+    }.timeline__controls--center{
+         margin-left:-200px
+         
+    }.timeline__controls--right{
+        margin-left:0px;
+    }.timeline__controls--active-state{
+        margin-left:-60px
+
     }
     
 }
