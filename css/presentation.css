@@ -21,26 +21,7 @@
 .timeline__controls--right {
      margin-left: -19px; 
 }}
-@media (min-width:1231px) and (max-width:1250px){
- .timeline__controls--left{
-     margin-left:-86px;
- }   .timeline__controls--right{
-     margin-left:229px;
- }
-	.timeline-chapters {
-     width: 155%; 
-}
-}
-@media (min-width:1251px) and (max-width:1299px){
-    .timeline__controls--left {
-     margin-left: -75px; 
-}
-.timeline__controls--right{
-     margin-left:223px;
- }
-	.timeline-chapters {
-     width: 155%; 
-}}
+
 
 
 
