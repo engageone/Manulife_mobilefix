@@ -15,6 +15,9 @@
  }   .timeline__controls--right{
      margin-left:229px;
  }
+	.timeline-chapters {
+     width: 155%; 
+}
 }
 
 
