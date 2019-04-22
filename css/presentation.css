@@ -1,3 +1,18 @@
+@media (min-width:500px) and (max-width:570px){
+
+    .timeline__controls--active-state{
+        margin-left: -58px;
+
+    }
+}
+@media (min-width:571px) and (max-width:600px){
+
+    .timeline__controls--active-state{
+        margin-left: -48px;
+        
+
+    }
+}
 @media (min-width:801px) and (max-width:819px){
 
 .timeline__controls--active-state {
@@ -9,10 +24,6 @@
     margin-left: -209px;
 }
 }
-
-
-
-
 @media (min-width:700px) and (max-width:710px){
     .timeline__controls--active-state {
     margin-left: -61px;
