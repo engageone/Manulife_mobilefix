@@ -1,5 +1,18 @@
 
-
+@media (min-width:601px) and (max-width:620px){
+    .timeline__controls--left {
+    width: 30%;
+    margin-left: -202px;
+}.timeline__controls--center {
+    
+    margin-left: -202px;
+}.timeline__controls--right {
+    margin-left: -40px;
+}.timeline__controls--active-state {
+    display: block;
+    width: 71%;
+    margin-left: -25px;
+}}
 
 @media (min-width:821px) and (max-width:1099px){
     .timeline__controls--left {
