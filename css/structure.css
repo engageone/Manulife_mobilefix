@@ -132,7 +132,7 @@ sub {
 .main {
     position: relative;
     display: block;
-   /* overflow: hidden;*/
+    overflow: hidden;
     margin: 0 auto;
     width: 2460px;
     background-image: url("../images/background1.jpg");
