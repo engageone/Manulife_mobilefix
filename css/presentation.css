@@ -572,6 +572,7 @@
         display:block;
         z-index:4;
 direction:flex;
+	    margin-left:68px;
 width:100%;
 position:absolute;
 top:295px;
