@@ -576,7 +576,11 @@ width:100%;
 position:absolute;
 top:295px;
 overflow:hidden;
-}}
+}
+.footer__copyright{
+    margin-top:140px !important;
+}
+}
 
 
 @media (min-width: 1025px) and (max-width: 1439px) {.timeline{
