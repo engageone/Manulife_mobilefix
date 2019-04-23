@@ -1,3 +1,39 @@
+@media (min-width:300px) and (max-width:319px){
+   .timeline__controls--active-state{
+        margin-left: -121px !important;
+
+    } 
+}
+@media (min-width:380px) and (max-width:399px){
+   .timeline__controls--active-state{
+        margin-left: -93px !important;
+
+    } 
+}
+
+@media (min-width:320px) and (max-width:329px){
+   .timeline__controls--active-state{
+        margin-left: -120px !important;
+
+    } 
+}
+
+
+
+@media (min-width:330px) and (max-width:379px){
+   .timeline__controls--active-state{
+        margin-left: -108px !important;
+
+    } 
+}
+
+
+
+
+
+
+
+
 @media (min-width:400px) and (max-width:429px){
    .timeline__controls--active-state{
         margin-left: -93px !important;
