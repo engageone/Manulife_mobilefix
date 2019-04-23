@@ -109,7 +109,7 @@
 
     }
 }
-@media (min-width:571px) and (max-width:600px){
+@media (min-width:571px) and (max-width:599px){
   .timeline__controls--active-state{
         margin-left: -80px !important;
         width:95% !important;
