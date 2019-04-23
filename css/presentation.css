@@ -1,3 +1,13 @@
+@media (min-width:508px) and (max-width:525px){
+    .timeline__controls--active-state{
+        margin-left: -80px !important;
+        width:95% !important;
+
+    } 
+    .timeline__controls--center{
+     width: 120% !important;
+    }
+}
 @media (min-width:526px) and (max-width:570px){
     .timeline__controls--active-state{
         margin-left: -80px !important;
