@@ -570,7 +570,7 @@
 @media (max-width:665px){
     .cta--side{
         display:block;
-        z-index:888;
+        z-index:4;
 direction:flex;
 width:100%;
 position:absolute;
