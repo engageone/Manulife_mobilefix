@@ -110,12 +110,16 @@
     }
 }
 @media (min-width:571px) and (max-width:600px){
-
-    .timeline__controls--active-state{
-        margin-left: -48px;
+  .timeline__controls--active-state{
+        margin-left: -80px !important;
+        width:95% !important;
         
-
     }
+    .timeline__controls--center{
+        width:119% !important;
+    }
+
+    
 }
 @media (min-width:801px) and (max-width:819px){
 
