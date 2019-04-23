@@ -580,6 +580,8 @@ overflow:hidden;
 }
 .footer__copyright{
     margin-top:140px !important;
+}.main {
+    overflow:visible !important;
 }
 }
 
