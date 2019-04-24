@@ -11,9 +11,19 @@ margin-left:80px !important;
 }
 .timeline__controls--center{
 
- width: 119% !important;
+ width: 100% !important;
     
-}}
+}.cta--side{
+    margin-top:50px;
+    margin-left:140px !important;
+
+}
+.player{
+    margin-left:-27px !important;
+}
+
+
+}
 @media (min-width:624px) and (max-width:665px){
     .timeline{
         margin-top:-42px;
@@ -25,9 +35,15 @@ margin-left:80px !important;
     width: 66% !important;
     margin-left: -55px;
 }
-
+.player{
+    margin-left:-25px
+}
+.cta--side{
+    margin-top:45px;
+    margin-left:160px !important;
+}
     
-}}
+}
 @media (min-width:651px) and (max-width:665px){
     .timeline{
         margin-top:-42px;
