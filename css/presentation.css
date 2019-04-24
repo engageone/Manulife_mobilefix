@@ -359,7 +359,7 @@ margin-left:85px !important;
     }
 }
 
-@media (min-width:430px) and (max-width:449px){
+@media (min-width:430px) and (max-width:440px){
    .timeline__controls--active-state{
         margin-left: -83px !important;
     } .player {
@@ -369,10 +369,18 @@ margin-left:85px !important;
         margin-top:-20px;
     }.cta--side{
         margin-top:12px;
-    }
+    }.footer__poweredby, .footer__copyright, .footer__links {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -4px;
+    
+}.timeline{
+    margin-top:-40px
 }
-@media (min-width:440px) and (max-width:470px){
-
+}
+@media (min-width:441px) and (max-width:450px){
+	.timeline{
+	margin-top:-40px;}
     .timeline__controls--active-state{
         margin-left: -88px !important;;
   width: 77% !important;
@@ -384,8 +392,38 @@ margin-left:85px !important;
         margin-top:-20px;
     }.cta--side{
         margin-top:41px;
-    }
+    }.footer__poweredby, .footer__copyright, .footer__links {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -4px;
+ 
 }
+}
+@media (min-width:451px) and (max-width:470px){
+
+    .timeline__controls--active-state{
+        margin-left: -88px !important;;
+  width: 77% !important;
+    }.timeline{
+        margin-top:-30px !important;
+    }
+	.player {
+    margin-top: 42px !important;
+    
+    margin-left: -33px}.timeline{
+        margin-top:-20px;
+    }.cta--side{
+        margin-top:30px;
+    }.footer__poweredby, .footer__copyright, .footer__links {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -4px;
+ 
+}
+}
+
+
+
 @media (min-width:471px) and (max-width:499px){
 
     .timeline__controls--active-state{
@@ -399,9 +437,25 @@ margin-left:85px !important;
     margin-left: -32px}.timeline{
         margin-top:-20px;
     }.cta--side{
-        margin-top:42px;
-    }
-}@media (min-width:500px) and (max-width:510px){
+        margin-top:15px;
+    }.footer__poweredby, .footer__copyright, .footer__links {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -4px;
+ 
+}.timeline{
+    margin-top:-50px
+}.footer__poweredby, .footer__copyright, .footer__links {
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -4px;
+ 
+}.timeline{
+    margin-top:-50px
+}
+}
+
+@media (min-width:500px) and (max-width:510px){
   .timeline__controls--active-state {
     margin-left: -61px !important;}  
 	.player {
