@@ -28,7 +28,22 @@ margin-left:80px !important;
 
     
 }}
+@media (min-width:651px) and (max-width:665px){
+    .timeline{
+        margin-top:-42px;
+    }
+.cta--side{top:319px !important;
+margin-left:80px !important;
+}
+.timeline__controls--active-state {
+    width: 70% !important;
+    margin-left: -55px;
+}
+.timeline__controls--center{
 
+ width: 93% !important;
+    
+}}
 
 
 
