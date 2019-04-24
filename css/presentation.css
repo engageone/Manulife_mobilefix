@@ -271,8 +271,14 @@ margin-left:85px !important;
 @media (min-width:380px) and (max-width:399px){
    .timeline__controls--active-state{
         margin-left: -93px !important;
-
-    } 
+    } .player {
+    margin-top: 42px !important;
+    
+    margin-left: -40px}.timeline{
+        margin-top:-20px;
+    }.cta--side{
+        margin-top:-8px;
+    }
 }
 
 @media (min-width:320px) and (max-width:329px){
