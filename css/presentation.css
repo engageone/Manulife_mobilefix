@@ -291,14 +291,19 @@ margin-left:85px !important;
 }
 @media (min-width:571px) and (max-width:599px){
   .timeline__controls--active-state{
-        margin-left: -37px !important;
-        width:73% !important;
+        margin-left: -65px !important;
+        width:91% !important;
         
     }
     .timeline__controls--center{
         width:119% !important;
     }
-
+ .timeline{
+        margin-top:-20px;
+    }
+.cta--side{top:295px !important;
+margin-left:80px !important;
+}
     
 }
 @media (min-width:801px) and (max-width:819px){
