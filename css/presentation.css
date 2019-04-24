@@ -1020,10 +1020,10 @@ a.footer__link1 {
     cursor: pointer;
     border-bottom: 1px solid #eee;
     font-weight: bold;
-     /*width: 90%;
-   height: 60%;*/
+     width: 90%;
+   height: 60%;
     width: 76px;
-   /* height: 65px;*/
+    height: 65px;
     background: url(images/side-btns.png);
     position: relative;
     background-position: 0px 0px;
