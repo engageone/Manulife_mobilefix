@@ -180,23 +180,28 @@ margin-left:85px !important;
 }
 @media (min-width:508px) and (max-width:525px){
     .timeline__controls--active-state{
-        margin-left: -80px !important;
-        width:95% !important;
+        margin-left: -70px !important;
+        width:76% !important;
 
     } 
     .timeline__controls--center{
      width: 120% !important;
+    }.player{
+        margin-left:-32px;
     }
 }
 @media (min-width:526px) and (max-width:570px){
     .timeline__controls--active-state{
-        margin-left: -80px !important;
-        width:95% !important;
+        margin-left: -60px !important;
+        width:74% !important;
 
     } 
     .timeline__controls--center{
      width: 120% !important;
+    }.player{
+        margin-left:-30px;
     }
+
 }
 @media (min-width:100px) and (max-width:199px){
    .timeline__controls--active-state{
@@ -417,23 +422,46 @@ margin-left:85px !important;
 
     }
 }
-@media (min-width:571px) and (max-width:599px){
-  .timeline__controls--active-state{
-        margin-left: -65px !important;
-        width:91% !important;
+@media (min-width:571px) and (max-width:590px){
+	  .timeline__controls--active-state{
+        margin-left: -55px !important;
+        width:75% !important;
         
     }
     .timeline__controls--center{
         width:119% !important;
     }
  .timeline{
-        margin-top:-25px;
+        margin-top:-45px;
     }
-.cta--side{top:300px !important;
-margin-left:80px !important;
+.cta--side{top:325px !important;
+margin-left:130px !important;
+}.player{
+    margin-left:-28px;
 }
     
 }
+@media (min-width:591px) and (max-width:599px){
+  .timeline__controls--active-state{
+        margin-left: -55px !important;
+        width:75% !important;
+        
+    }
+    .timeline__controls--center{
+        width:119% !important;
+    }
+ .timeline{
+        margin-top:-45px;
+    }
+.cta--side{top:335px !important;
+margin-left:130px !important;
+}.player{
+    margin-left:-30px;
+}
+    
+}
+
+  
 @media (min-width:801px) and (max-width:819px){
 
 .timeline__controls--active-state {
