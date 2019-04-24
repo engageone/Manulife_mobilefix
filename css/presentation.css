@@ -740,12 +740,7 @@ margin-left:130px !important;
     width: 75%;
 }
 }
-@media (min-width:671px) and (max-width:690px){
-   .timeline__controls--active-state {
-    margin-left: -61px;
-    width: 74%;
-} 
-}
+
 
 
 
