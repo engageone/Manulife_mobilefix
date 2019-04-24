@@ -54,7 +54,7 @@ margin-left:80px !important;
 
 }
 
-@media (min-width:671px) and (max-width:690x){
+@media (min-width:671px) and (max-width:690px){
     .timeline{
         margin-top:-42px;
     }
