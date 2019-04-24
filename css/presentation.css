@@ -182,7 +182,7 @@ margin-left:80px !important;
 .cta--side{top:300px !important;
 margin-left:80px !important;
 }
-}
+	}
 @media (min-width:531px) and (max-width:535px){
     .timeline{
         margin-top:-40px;
@@ -592,7 +592,7 @@ margin-left:130px !important;
 }.player{
     margin-left:-28px;
 }
-    
+     
 }
 @media (min-width:591px) and (max-width:599px){
   .timeline__controls--active-state{
