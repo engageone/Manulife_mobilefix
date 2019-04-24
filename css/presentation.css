@@ -669,16 +669,21 @@ margin-left:130px !important;
 
 
 
-@media (max-width:300px){
-    .timeline__controls--active-state{
-        margin-left:-107px;
-    }
-}
+
 
 @media (min-width:201px) and (max-width:300px){
     .timeline__controls--active-state{
-        margin-left:-106px;
+        margin-left:-107px;
     }
+.cta--side{
+    margin-left:10px !important;
+}
+.player{
+    margin-top:60px;
+   margin-left:-42px;
+}	
+	
+	
 }
 @media (max-width:227px){
     .timeline__controls--active-state{
