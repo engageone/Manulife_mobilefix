@@ -1,3 +1,51 @@
+@media (min-width:600px) and (max-width:623px){
+    .timeline{
+        margin-top:-42px;
+    }
+.cta--side{top:291px !important;
+margin-left:80px !important;
+}
+.timeline__controls--active-state {
+    width: 91% !important;
+    margin-left: -55px;
+}
+.timeline__controls--center{
+
+ width: 119% !important;
+    
+}}
+@media (min-width:624px) and (max-width:650px){
+    .timeline{
+        margin-top:-42px;
+    }
+.cta--side{top:300px !important;
+margin-left:80px !important;
+}
+.timeline__controls--active-state {
+    width: 66% !important;
+    margin-left: -55px;
+}
+
+    
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (min-width:501px) and (max-width:510px){
     .timeline{
         margin-top:-29px;
