@@ -709,6 +709,7 @@ margin-left:130px !important;
     margin-top:-46px
 }.cta--side{
     margin-left:180px !important;
+	margin-top:15px;
 }
 }
 @media (min-width:655px) and (max-width:690px){
@@ -754,8 +755,8 @@ margin-left:130px !important;
     margin-left: -40px;
 }.timeline__controls--active-state {
     
-    width: 75%;
-    margin-left: -42px;
+    width: 72%;
+    margin-left: -29px;
 }
 .footer__poweredby, .footer__copyright, .footer__links {
     text-align: center;
