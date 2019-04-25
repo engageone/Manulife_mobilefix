@@ -1,3 +1,16 @@
+@media (min-width:1440px) and (max-width:1450px){
+.timeline--no-volume .timeline__controls--right {
+    width: 54px;
+}.timeline--no-volume .timeline__controls--center {
+    width: 856px;
+}
+	}
+
+
+
+
+
+
 @media (min-width:600px) and (max-width:623px){
     .timeline{
         margin-top:-42px;
