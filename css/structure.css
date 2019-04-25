@@ -1,5 +1,10 @@
 /** Global Styling **/
-
+@element iframe {
+  $this {
+    width: 100%;
+    height: calc(100ew / eval("width/height"));
+  }
+}
 *{
 	box-sizing: border-box;
 }
