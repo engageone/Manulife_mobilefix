@@ -31,7 +31,7 @@ margin-left:80px !important;
 margin-left:80px !important;
 }
 .timeline__controls--active-state {
-    width: 75% !important;
+    width: 72% !important;
     margin-left: -55px;
 }
 .timeline__controls--center{
@@ -84,9 +84,6 @@ margin-left:80px !important;
 }
 
 }
-
-
-
 @media (min-width:691px) and (max-width:700px){
     .timeline{
         margin-top:-42px;
@@ -117,20 +114,6 @@ margin-left:80px !important;
 }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (min-width:624px) and (max-width:650px){
     .timeline{
         margin-top:-42px;
