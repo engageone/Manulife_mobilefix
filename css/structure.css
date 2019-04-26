@@ -261,10 +261,11 @@ sub {
 }
 
 .player__wrapper {
-    width: 1920px;
-    height: 1080px;
-    margin-top:-2%;
-    margin-left: 14%;
+    width: 1635px;
+    height: 927px;
+    margin-top:-8%;
+    margin-left: 18%;
+	margin-bottom:-36px;
 }
 
 .fullscreen .player__wrapper {
