@@ -46,12 +46,12 @@ var Translations = {
     "CtaButtonSettings": {
         "button1": {
             "card": "257522e9",
-            "label": "Share",
+          /*  "label": "Share",*/
             /* "icon": "share"*/
         },
         "button2": {
             "url": "https://www.manulifelabuan.com.my/Home",
-            "label": "Website",
+            /*"label": "Website",*/
              /*"icon": "website"*/
         },
         "button3": {
