@@ -1,6 +1,27 @@
 
 
 
+@media (min-width:1466px) and (max-width:9999px){
+
+.player__wrapper {
+    width: 1635px;
+    height: 927px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-bottom: -80px;
+}
+.cta--side {
+    float: left;
+    width: 6%;
+     min-height: 1px; 
+    position: relative;
+    left: 5%;
+     margin-top: 10%; 
+    margin-right: 0%;
+    left: 250px;
+    top: 303% !important;
+    
+	}}
 
 
 
