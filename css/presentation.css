@@ -1486,7 +1486,7 @@ background: url(../images/Hoverdownload.jpg);
     margin: 0 auto;
     margin-bottom: 25px;
     width: 60px;
-    height: 60px;
+   /* height: 60px;*/
     
     background-position: var(--cta-bgX) var(--cta-bgY);
     background-size: 500% 300%;
