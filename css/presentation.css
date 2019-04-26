@@ -3,6 +3,10 @@
 .timeline-chapters{
     margin-left:-160px;
 }
+	.timeline-buffering {
+    width:102%;
+    margin-left:-102px;
+}
 .player__wrapper {
     width: 1635px;
     height: 927px;
