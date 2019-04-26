@@ -43,7 +43,7 @@ var Translations = {
      *
      * "url" buttons will open the specified URL in a new window/tab when clicked
      */
-    "CtaButtonSettings": {
+   /* "CtaButtonSettings": {
         "button1": {
             "card": "257522e9",
             "label": "Share",
@@ -59,7 +59,7 @@ var Translations = {
             "label": "Save",
             "icon": "save"
         }
-        /*"button4": {
+        "button4": {
             "card": "d77e16c3",
             "label": "Feedback",
             "icon": "Feedback"
