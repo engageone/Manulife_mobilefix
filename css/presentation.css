@@ -1,5 +1,38 @@
 
+@media (min-width:2466px) and (max-width:9999px){
 
+.player__wrapper {
+    width: 1635px;
+    height: 927px;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-bottom: -80px;
+}
+.cta--side {
+    float: left;
+    width: 6%;
+     min-height: 1px; 
+    position: relative;
+    left: 5%;
+     margin-top: 10%; 
+    margin-right: 0%;
+    left: 250px;
+    top: 303% !important;
+    
+	}
+#jsSettingsButton {
+    background: url(../images/quality-btn.png);
+    background-position: 84px -35px;
+}
+.timeline__button--volume {
+    width: 52px;
+    background: url(../images/audio-btn.png) 50px -35px;
+}
+.timeline__controls--center {
+    position: relative;
+    width: 1651px;
+    margin-left: -191px;
+}}
 
 
 
