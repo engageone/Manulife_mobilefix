@@ -48,7 +48,7 @@ var Translations = {
             "label": "Botón 3",
             "icon": "email"
         },
-       /* "button4": {
+        "button4": {
             "card": "7b480c70",
             "label": "Botón 4",
             "icon": "save"
@@ -57,7 +57,7 @@ var Translations = {
             "url": "http://example.com/es",
             "label": "Botón 5",
             "icon": "share"
-        }*/
+        }
     },
 
     /*
