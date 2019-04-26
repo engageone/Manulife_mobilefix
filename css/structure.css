@@ -552,7 +552,7 @@ div.promo__item.promo__item--bottom {
     height: calc(100% - 10px);
     line-height: 40px;
     text-align: left;
-    margin-left: -33px;
+    margin-left: -2px;
 }
 
 .timeline-volume {
