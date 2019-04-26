@@ -32,7 +32,26 @@
     position: relative;
     width: 1651px;
     margin-left: -191px;
-}}
+}
+#jsPlayPauseButton {
+    background: url(../images/play-btn-hi.png);
+    background-position: -4px -51px !important;
+    padding-top: 7px;
+}
+#jsSkipBackButton {
+    background: url(../images/skipback-btn.png);
+    background-position: 0px -36px !important;
+}
+#jsSkipForwardButton {
+    background: url(../images/skipforward-btn.png);
+    background-position: 0px -40px !important;}
+.timeline, .timeline__controls {
+    height: 80px;
+    margin-left: -71px !important;
+}
+
+
+}
 
 
 
