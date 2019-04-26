@@ -51,12 +51,12 @@ var Translations = {
         "button4": {
             "card": "7b480c70",
             "label": "Botón 4",
-            "icon": "save"
+           /* "icon": "save"*/
         },
         "button5": {
             "url": "http://example.com/es",
             "label": "Botón 5",
-            "icon": "share"
+           /* "icon": "share"*/
         }
     },
 
