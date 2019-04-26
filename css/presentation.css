@@ -22,11 +22,11 @@
 	}
 #jsSettingsButton {
     background: url(../images/quality-btn.png);
-    background-position: 84px -35px;
+    background-position: 84px -35px !important;
 }
 .timeline__button--volume {
     width: 52px;
-    background: url(../images/audio-btn.png) 50px -35px;
+    background: url(../images/audio-btn.png) 50px -35px !important;
 }
 .timeline__controls--center {
     position: relative;
