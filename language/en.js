@@ -43,23 +43,23 @@ var Translations = {
      *
      * "url" buttons will open the specified URL in a new window/tab when clicked
      */
-   /* "CtaButtonSettings": {
+    "CtaButtonSettings": {
         "button1": {
             "card": "257522e9",
-            "label": "Share",
-            "icon": "share"
+            /*"label": "Share",
+            "icon": "share"*/
         },
         "button2": {
             "url": "https://www.manulifelabuan.com.my/Home",
-            "label": "Website",
-            "icon": "website"
+            /*"label": "Website",
+            "icon": "website"*/
         },
         "button3": {
             "card": "a84f3919",
-            "label": "Save",
-            "icon": "save"
+            /*"label": "Save",
+            "icon": "save"*/
         }
-        "button4": {
+       /* "button4": {
             "card": "d77e16c3",
             "label": "Feedback",
             "icon": "Feedback"
