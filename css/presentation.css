@@ -1,10 +1,5 @@
 
-@media (min-width:1466px) and (max-width:9999px){
-.timeline__controls--center {
-    position: relative;
-	float:left;
-     width: 1400px; 
- }}
+
 
 @media (min-width:600px) and (max-width:623px){
     .timeline{
