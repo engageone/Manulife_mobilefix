@@ -50,13 +50,13 @@ var Translations = {
             "icon": "share"*/
         },
         "button2": {
-            "url": "https://www.manulifelabuan.com.my/Home",
-            /*"label": "Website",
+            /*"url": "https://www.manulifelabuan.com.my/Home",
+            "label": "Website",
             "icon": "website"*/
         },
         "button3": {
-            "card": "a84f3919",
-            /*"label": "Save",
+           /* "card": "a84f3919",
+            "label": "Save",
             "icon": "save"*/
         }
        /* "button4": {
