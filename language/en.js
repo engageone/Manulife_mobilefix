@@ -52,14 +52,14 @@ var Translations = {
         "button2": {
             "url": "https://www.manulifelabuan.com.my/Home",
             "label": "Website",
-             /*"icon": "website"*/
+             "icon": "website"
         },
-       /* "button3": {
+        "button3": {
             "card": "a84f3919",
             "label": "Save",
-            "icon": "save"*/
+            "icon": "save"
         }
-        /*"button4": {
+        "button4": {
             "card": "d77e16c3",
             "label": "Feedback",
             "icon": "Feedback"
@@ -68,7 +68,7 @@ var Translations = {
             "url": "mailto:callcentre@cimb.com?Subject=EngageOne%23Video%20Support%20Request",
             "label": "Email",
             "icon": "email"
-        }*/
+        }
     },
 
     /**
