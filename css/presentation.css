@@ -258,6 +258,8 @@ margin-left:137px !important;
     }
 .cta--side{top:264px !important;
 margin-left:140px !important;
+}.footer__links{
+    padding-right:125px !important;
 }
 }
 @media (min-width:531px) and (max-width:535px){
@@ -266,6 +268,8 @@ margin-left:140px !important;
     }
 .cta--side{top:272px !important;
 margin-left:130px !important;
+}.footer__links{
+    padding-right:125px !important;
 }
 }
 @media (min-width:536px) and (max-width:540px){
@@ -274,6 +278,8 @@ margin-left:130px !important;
     }
 .cta--side{top:266px !important;
 margin-left:144px !important;
+}.footer__links{
+    padding-right:125px !important;
 }
 }
 @media (min-width:541px) and (max-width:550px){
@@ -282,6 +288,8 @@ margin-left:144px !important;
     }
 .cta--side{top:277px !important;
 margin-left:161px !important;
+}.footer__links{
+    padding-right:125px !important;
 }
 }
 @media (min-width:551px) and (max-width:560px){
@@ -290,6 +298,8 @@ margin-left:161px !important;
     }
 .cta--side{top:285px !important;
 margin-left:156px !important;
+}.footer__links{
+    padding-right:125px !important;
 }
 }
 
@@ -299,6 +309,8 @@ margin-left:156px !important;
     }
 .cta--side{top:287px !important;
 margin-left:130px !important;
+}.footer__links{
+    padding-right:125px !important;
 }
 }
 @media (min-width:449px) and (max-width:455px){
@@ -360,6 +372,8 @@ margin-left:117px !important;
     }
 .cta--side{top:274px !important;
 margin-left:120px !important;
+}.footer__links{
+    padding-right:125px !important;
 }
 }
 @media (min-width:491px) and (max-width:500px){
@@ -376,6 +390,10 @@ margin-left:119px !important;
         width:76% !important;
 
     } 
+	
+	.footer__links{
+    padding-right:125px !important;
+}
     .timeline__controls--center{
      width: 120% !important;
     }.player{
@@ -597,6 +615,10 @@ margin-left:119px !important;
     margin-left: -4px;
  
 }
+.footer__links{
+    padding-right:120px !important;
+}	
+	
 }
 
 
@@ -644,6 +666,10 @@ margin-left:119px !important;
         margin-top:-27px}.cta--side{
         margin-top:-27px}.footer__links{
     padding-right:101px;
+}.footer__links{
+    padding-right:125px !important;
+}.footer__links{
+    padding-right:125px !important;
 }
         
 }@media (min-width:511px) and (max-width:519px){
@@ -660,7 +686,9 @@ margin-left:119px !important;
     }.cta--side{
         margin-top:-16px}
         
-    
+    .footer__links{
+    padding-right:125px !important;
+}
 }
 
 
