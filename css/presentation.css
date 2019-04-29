@@ -8,6 +8,11 @@
     width:102%;
     margin-left:-102px;
 }
+		a.footer__link1{
+    margin-left:-33%;
+}.footer__poweredby{
+    padding-top:60px !important;
+}
 .player__wrapper {
     width: 1635px;
     height: 927px;
