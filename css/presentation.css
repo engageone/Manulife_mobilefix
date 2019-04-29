@@ -324,6 +324,8 @@ margin-left:85px !important;
     }
 .cta--side{top:291px !important;
 margin-left:85px !important;
+}.footer__links{
+    padding-right:71px;
 }
 }
 
@@ -639,7 +641,10 @@ margin-left:119px !important;
     margin-left: -32px;}.timeline{
         margin-top:-40px;
     }.cta--side{
-        margin-top:-27px}
+        margin-top:-27px}.cta--side{
+        margin-top:-27px}.footer__links{
+    padding-right:101px;
+}
         
 }@media (min-width:511px) and (max-width:519px){
   .timeline__controls--active-state {
