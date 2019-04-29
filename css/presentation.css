@@ -2,6 +2,7 @@
 @media (min-width:2466px) and (max-width:9999px){
 .timeline-chapters{
     margin-left:-160px;
+	line-height:58px;
 }
 	.timeline-buffering {
     width:102%;
