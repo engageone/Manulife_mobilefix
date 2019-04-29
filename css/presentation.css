@@ -29,11 +29,11 @@
 	}
 #jsSettingsButton {
     background: url(../images/quality-btn.png);
-    background-position: 84px -35px !important;
+    background-position: 84px -46px !important;
 }
 .timeline__button--volume {
     width: 52px;
-    background: url(../images/audio-btn.png) 50px -35px !important;
+    background: url(../images/audio-btn.png) 50px -46px !important;
 }
 .timeline__controls--center {
     position: relative;
@@ -42,16 +42,16 @@
 }
 #jsPlayPauseButton {
     background: url(../images/play-btn-hi.png);
-    background-position: -4px -51px !important;
+    background-position: -4px -55px !important;
     padding-top: 7px;
 }
 #jsSkipBackButton {
     background: url(../images/skipback-btn.png);
-    background-position: 0px -36px !important;
+    background-position: 0px -45px !important;
 }
 #jsSkipForwardButton {
     background: url(../images/skipforward-btn.png);
-    background-position: 0px -40px !important;}
+    background-position: 0px -45px !important;}
 .timeline, .timeline__controls {
     height: 54px;
     margin-left: -71px !important;
