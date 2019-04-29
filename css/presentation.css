@@ -734,7 +734,7 @@ margin-left:172px !important;
 @media (min-width:720px) and (max-width:740px){
     .timeline__controls--active-state {
     margin-left: -61px;
-    width: 87%;
+    width: 81%;
 }.timeline__controls--center {
     width:105%;
     margin-left: -209px;
