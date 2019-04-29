@@ -297,7 +297,7 @@ margin-left:156px !important;
     .timeline{
         margin-top:-40px;
     }
-.cta--side{top:299px !important;
+.cta--side{top:287px !important;
 margin-left:130px !important;
 }
 }
@@ -2055,6 +2055,7 @@ background: url(../images/Hoverdownload.jpg);
 .footer__link:active,
 .focusable.footer__link:focus {
     text-decoration: underline;
+	margin-right:111px;
 }
 
 .footer__link--image:hover,
