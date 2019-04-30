@@ -371,8 +371,6 @@ margin-left:85px !important;
     }
 .cta--side{top:275px !important;
 margin-left:117px !important;
-}.footer__links{
-    padding-right:120px !important;
 }
 }
 @media (min-width:486px) and (max-width:490px){
@@ -381,8 +379,6 @@ margin-left:117px !important;
     }
 .cta--side{top:274px !important;
 margin-left:120px !important;
-}.footer__links{
-    padding-right:125px !important;
 }
 }
 @media (min-width:491px) and (max-width:500px){
@@ -391,8 +387,6 @@ margin-left:120px !important;
     }
 .cta--side{top:267px !important;
 margin-left:119px !important;
-}.footer__links{
-    padding-right:120px !important;
 }
 }
 @media (min-width:508px) and (max-width:525px){
