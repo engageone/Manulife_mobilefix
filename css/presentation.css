@@ -101,7 +101,7 @@ margin-left:80px !important;
 .player{
     margin-left:-27px !important;
 }.footer__links{
-    padding-right:11px !important;
+    padding-right:160px !important;
 }.footer__copyright, .footer__poweredby, .footer__links{
     margin-bottom:28px !important;
    
@@ -887,7 +887,7 @@ margin-left:172px !important;
 }
 .footer__poweredby, .footer__copyright, .footer__links {
     text-align: center;
-    
+    margin-top:60px;
     margin-left: -4px;
  
 }.timeline{
