@@ -134,8 +134,8 @@ sub {
 
 .main {
     position: relative;
-    /*display: block;
-    overflow: hidden;*/
+    display: block;
+    overflow: hidden;
     margin: 0 auto;
     width: 2460px;
     background-image: url("../images/background1.jpg");
@@ -165,7 +165,7 @@ sub {
     margin-right: 0%;
     left: 5%;
     top: 33%;
-	overflow:visible;
+	
 }
 
 .fullscreen .cta--side {
@@ -184,7 +184,7 @@ sub {
 }
 
 .cta--side .cta__button {
-    /*width: 90%;*/
+    width: 90%;
 }
 
 .fullscreen .cta--side .cta__button {
