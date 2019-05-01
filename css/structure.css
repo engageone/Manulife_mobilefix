@@ -184,7 +184,7 @@ sub {
 }
 
 .cta--side .cta__button {
-    width: 90%;
+   /* width: 90%;*/
 }
 
 .fullscreen .cta--side .cta__button {
