@@ -17,7 +17,7 @@ if (!Object.keys) {
         return keys;
     };
 }
-$(function() {
+(function($) {
     /**
      * Initialise the mobile orientation handler
      */
