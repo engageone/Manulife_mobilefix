@@ -1,3 +1,5 @@
+
+<script type="text/javascript" src="js/script.js">
 function isInArray(value, array) {
     return array.indexOf(value) > -1;
 }
@@ -2429,3 +2431,4 @@ var FullScreenHandler = {
         }
     }
 };
+</script>
