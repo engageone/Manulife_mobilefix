@@ -17,7 +17,6 @@ if (!Object.keys) {
         return keys;
     };
 }
-<script type="text/javascript" src="js/script.js">
 $(function() {
     /**
      * Initialise the mobile orientation handler
@@ -2431,4 +2430,4 @@ var FullScreenHandler = {
         }
     }
 };
-</script>
+
